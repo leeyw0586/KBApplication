@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KBApplication</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_saved">Saved</string>
+</resources>
